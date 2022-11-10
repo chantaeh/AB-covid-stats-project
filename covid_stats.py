@@ -1,11 +1,12 @@
 # covid_stats.py
-# CHANTAE HO, ENDG 233 F21
-# UCID: 30141743
+# CHANTAE H, ENDG 233 Fall 2021
+# Developed Nov. 2021
 
 # Program that calculates vaccination rates and finds the number of Covid cases
 # on a date chosen by the user. Uses matplotlib to display 2 bar graphs for above
 # 2 statistics. Uses numpy arrays to import data from 3 datasets and compute calculations. 
 
+# csv files are modified from datasets on Edmonton Open Data. See README file for more info.
 
 import numpy as np
 import matplotlib.pyplot as plt
