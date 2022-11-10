@@ -1,6 +1,7 @@
 # covid_stats.py
 # CHANTAE H, ENDG 233 Fall 2021
 # Developed Nov. 2021
+# Copyright 2022, Chantae H, All rights reserved.
 
 # Program that calculates vaccination rates and finds the number of Covid cases
 # on a date chosen by the user. Uses matplotlib to display 2 bar graphs for above
