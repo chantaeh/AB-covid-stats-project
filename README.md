@@ -1,5 +1,4 @@
-# endg233_finalproject
-ENDG 233: Programming with Data  Final Project
+# AB-covid-stats-project
 
 Program that calculates vaccination rates and finds the number of Covid cases
 on a date chosen by the user. Uses matplotlib to display 2 bar graphs for above
@@ -11,3 +10,5 @@ https://data.edmonton.ca/Community-Services/COVID-19-in-Alberta-Cases-by-Zone/jm
 - Alberta Health Services and Chris. COVID-19 in Alberta: Vaccination Progress by Zone. Edmonton Open Data, 18-Nov-2021. [Online].
 Available: https://data.edmonton.ca/Externally-Sourced-Datasets/COVID-19-in-Alberta-Vaccination-Progress-by-Zone/d43f-8ikp. [Accessed:
 24-Nov-2021]
+
+Completed for ENDG 233: Programming with Data Final Project (self-determined project)
